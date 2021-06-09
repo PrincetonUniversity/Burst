@@ -4,7 +4,7 @@
 
 If you use `burst` in your research, please cite:
 
-Kai Zhang and Haw Yang, "Photon-by-Photon Determination of Emission Bursts from Diffusing Single Chromophores," [_J. Phys. Chem. B_, 109, 21930--21937 (2005)](http://dx.doi.org/10.1021/jp0546047).
+Kai Zhang and Haw Yang, "Photon-by-Photon Determination of Emission Bursts from Diffusing Single Chromophores," [_J. Phys. Chem. B_, 109, 21930-21937 (2005)](http://dx.doi.org/10.1021/jp0546047).
 
 ## License
 
