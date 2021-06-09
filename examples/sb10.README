@@ -1,0 +1,9 @@
+1. Results from simulating a diffusing fluorescent molecule through a microscope
+   objective detection volume.
+2. Each row represents a single detected photon.
+3. The 5 columns are:t, Delta_t, It, Is, ellipsoid
+   col1: wall-clock time of the time trajectory (s)
+   col2: inter-photon duration (s)
+   col3: total instantaneous ideal intensity (signal + background)
+   col4: total instantaneous ideal signal
+   col5: chromophore distance from the focus, normalized to Gaussian ellipsoid

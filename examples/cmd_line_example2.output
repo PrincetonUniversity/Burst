@@ -1,0 +1,26 @@
+> burst sb10.dat 0.001 0.01 2000 >& cmd_line_example2.output
+
+*******************************************************************
+*       Photon by photon burst detection and collection           *
+*                               by                                *
+*                            Haw Yang                             *
+*        Department of Chemistry, Princeton University            *
+*******************************************************************
+Reference: K. Zhang & H. Yang, J. Phys. Chem. B, 109, 21930 (2005).
+v0.92-osx: build [Jun  8 2021] (compiled with GSL version 2.6)
+
+] Reading in data file ...
+  Total of 1347349 photons, 600.000 seconds read in.
+
+] Initial guesses are:
+  SB = 9.65, I0 = 1.730104e+01, I1 = 4.341441e+00.
+  IB = 2.000000e+00, A = 9.900000e+02, B = 1.001001e-02
+  hA = 2.945923e+00, hB = -1.966383e+00, hC = 3.310180e-01
+  Kullback-Liebler distance D(I1||IB) = 2.357357e-01
+  Optimal Page's CUSUM threshold h = 6.497056e+00
+  Expected minimum SPRT detection delay = 12 photons
+  Expected minimum CUSUM detection delay = 29 photons
+
+] Starting iteration ...
+  Done. Total of 4624 bursts found.
+

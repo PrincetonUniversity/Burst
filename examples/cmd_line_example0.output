@@ -1,0 +1,17 @@
+> burst 
+
+burst  - A photon-by-photon fluorescence burst analysis program.
+Version: 0.92-osx build [Jun  8 2021] (compiled with GSL version 2.6)
+Syntax : burst filename alpha beta background_count(cps) S/B_ratio
+Example: burst MYFILE 0.001 0.01 2000 30
+         analyzes MYFILE with type-I error of 0.1% and type-II error of 1%.
+         using background count 2000 photons/s and a S/B = 30.
+         It produces output files MYFILE.bst and MYFILE.bkg.
+
+         If S/B_ratio is omitted, it will be determined from the time series,
+         e.g., burst MYFILE 0.001 0.01 2000
+         Similarly, background_count will be determined from data if omitted,
+         e.g., burst MYFILE 0.001 0.01
+
+Bug    : Send report to hawyang@princeton.edu
+
