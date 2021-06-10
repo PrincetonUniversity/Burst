@@ -4,7 +4,7 @@ The `burst` algorithm is a data-driven and statistically rigorous method to dete
 
 ## Getting started
 
-The algorithm is implemented in C. To compile the source code, use the standard C compile command, e.g.,
+The algorithm is implemented in C. To compile the source code, use the standard C-code compile command, e.g.,
 
 > make
 
