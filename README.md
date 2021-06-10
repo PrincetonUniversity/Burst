@@ -8,4 +8,4 @@ Kai Zhang and Haw Yang, "Photon-by-Photon Determination of Emission Bursts from 
 
 ## License
 
-Burst is released under a Clear BSD License and is intended for research/academic use only. For commercial use, please contact: Laurie Tzodikov (Assistant Director, Office of Technology Licensing), Princeton University, 609-258-7256.
+`burst` is released under a Clear BSD License and is intended for research/academic use only. For commercial use, please contact: Laurie Tzodikov (Assistant Director, Office of Technology Licensing), Princeton University, 609-258-7256.
