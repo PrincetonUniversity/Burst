@@ -16,7 +16,7 @@ which will print out instructions. The code has been tested in both Linux (Ubunt
 
 ## References
 
-If you use `burst` in your research, please cite:
+If you use the `burst` algorithm in your research, please cite:
 
 Kai Zhang and Haw Yang, "Photon-by-Photon Determination of Emission Bursts from Diffusing Single Chromophores," [_J. Phys. Chem. B_, 109, 21930-21937 (2005)](http://dx.doi.org/10.1021/jp0546047).
 
