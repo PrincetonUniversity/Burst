@@ -1,6 +1,6 @@
 # Burst
 
-The `burst` algorithm is a data-driven and statistically rigorous method to detect and isolate signal bursts in a time series. It is statistically rigorous in the sense that the false-postive and false-negative rates in detecting signal bursts are known, as defined by the user. For example, the algorithm can be used for counting molecules in a single-molecule diffusion experiment. Furthermore, the algorithm isolates signal bursts conservatively to minimize taking in background data points, allowing additional in-depth analysis of information content contained in the data points collected in each signal burst. 
+The `burst` algorithm is a data-driven and statistically rigorous method to detect and isolate signal bursts in a time series. It is statistically rigorous in the sense that the false-positive and false-negative rates in detecting signal bursts are known, as defined by the user. For example, the algorithm can be used for counting molecules in a single-molecule diffusion experiment. Furthermore, the algorithm isolates signal bursts conservatively to minimize taking in background data points, allowing additional in-depth analysis of information content contained in the data points collected in each signal burst. 
 
 ## Getting started
 
