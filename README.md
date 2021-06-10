@@ -6,11 +6,11 @@ The `burst` algorithm is a data-driven and statistically rigorous method to dete
 
 The algorithm is implemented in C. To compile the source code, use the standard C compile command, e.g.,
 
-> make
+> > make
 
 Then under the command-line environment, type
 
-> burst
+> > burst
 
 which will print out instructions. The code has been tested in both Linux (Ubuntu 20.04 LTS) and Mac OSX (macOS Big Sur 11.4 command line) environments.
 
