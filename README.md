@@ -12,7 +12,9 @@ Then under the command-line environment, type
 
 > burst
 
-which will print out instructions. The code has been tested in both Linux (Ubuntu 20.04 LTS) and Mac OSX (macOS Big Sur 11.4 command line) environments.
+which will print out instructions. An example, simulated trajectory is included in the /examples/ folder. Output files have extensions with "bst" and ".bak" attached to the input file name and correspond to data-intensity burst regions and background regions, respectively. See the source code for details and output format.
+
+The code has been tested in both Linux (Ubuntu 20.04 LTS) and Mac OSX (macOS Big Sur 11.4 command line) environments.
 
 ## References
 
